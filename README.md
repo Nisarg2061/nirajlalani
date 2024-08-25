@@ -5,7 +5,8 @@
 
 <div align="center">
  
-![Niraj's Stats](https://github-readme-stats.vercel.app/api?username=nirajlalani&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)![Niraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajlalani&theme=tokyonight&hide_border=false&card_width=450)
+![Niraj's Stats](https://github-readme-stats.vercel.app/api?username=nirajlalani&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Niraj's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nirajlalani&theme=tokyonight&hide_current_streak=true&hide_border=false&card_width=450)
 
  
 </div>
